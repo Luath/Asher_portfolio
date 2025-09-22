@@ -1,15 +1,4 @@
 @charset "UTF-8";
-
-
-.roboto-<uniquifier> {
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-}
-
 header {
 	background-color:#E9F4FF;
 }
@@ -30,14 +19,7 @@ footer {
   align-items: center; /* Aligns items vertically in the center */
 }
 
-.container-flex_2 {
-  display: flex; /* Makes the container a flex container */
-  flex-direction: row ; /* Arranges items horizontally (default) */
-  /* Optional: Add more properties for alignment and spacing */
-  justify-content: space-evenly; /* Distributes space around items */
-  align-items: center; /* Aligns items vertically in the center */
-  row-gap: 50rem;
-}
+
 
 
 
