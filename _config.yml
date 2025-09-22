@@ -3,6 +3,6 @@ name: Asher
 email: rrsunny54@gmail.com
 
 collections:
-design:
-output: true
-permalink: /collections/:path:
+  design:
+    output: true
+    permalink: /collections/:path:
