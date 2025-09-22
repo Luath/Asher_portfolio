@@ -1,8 +1,1 @@
-title: My Portfolio
-name: Asher
-email: rrsunny54@gmail.com
 
-collections:
-  design:
-    output: true
-    permalink: /collections/:path:
